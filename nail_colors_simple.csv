@@ -1,0 +1,21 @@
+ref_id;color_name;color_family;hex_code;finish
+NC-001;Classic Red;Red;#C8102E;Cream
+NC-002;Burgundy;Red;#800020;Gloss
+NC-003;Coral;Orange;#FF6F61;Cream
+NC-004;Peach;Orange;#FFB38A;Cream
+NC-005;Mustard;Yellow;#E1AD01;Cream
+NC-006;Sage Green;Green;#9CAF88;Matte
+NC-007;Emerald;Green;#046307;Gloss
+NC-008;Mint;Green;#98FF98;Cream
+NC-009;Baby Blue;Blue;#89CFF0;Cream
+NC-010;Navy;Blue;#000080;Cream
+NC-011;Lavender;Purple;#B57EDC;Cream
+NC-012;Plum;Purple;#8E4585;Gloss
+NC-013;Baby Pink;Pink;#F4C2C2;Sheer
+NC-014;Hot Pink;Pink;#FF1493;Cream
+NC-015;Dusty Rose;Pink;#C4A1A1;Matte
+NC-016;Milky White;White;#F5F1EB;Sheer
+NC-017;Beige;Nude;#D9BF9B;Cream
+NC-018;Mocha;Brown;#6F4E37;Cream
+NC-019;Jet Black;Black;#0A0A0A;Gloss
+NC-020;Gold;Metallic;#D4AF37;Metallic
