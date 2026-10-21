@@ -31,16 +31,16 @@ How to Run:
 
 Install the required libraries:
 
-py -m pip install pandas notebook
+   .py -m pip install pandas notebook
 
 Open the notebook and run the cells in order:
 
-py -m notebook nail.ipynb
+   .py -m notebook nail.ipynb
 
 What I Learned:
 
 .Loading a CSV file with Pandas (including a custom ; separator)
 
-.Inspecting a dataset with head(), info(), describe() and shape
+.Inspecting a dataset with head(), info(), describe() and shapez
 
 .Checking for duplicate rows
