@@ -2,11 +2,11 @@
 
 My first data analysis project using Python and Pandas.
 
-Goal:
+## Goal
 
 Explore a small dataset of nail polish colors and understand its structure: how many colors it contains, which columns it has, and whether the data is clean.
 
-Dataset:
+## Dataset
 
 File:
  nail_colors_simple.csv (20 colors, 5 columns, separated by ;)
@@ -21,23 +21,27 @@ File:
 
         .finish – polish finish (Cream, Gloss, Matte, Sheer,Metallic)
 
-Technologies:
+## Technologies
 
-Pandas
+- Pandas
 
-Jupyter Notebook
+- Jupyter Notebook
 
-How to Run:
+## How to Run
 
 Install the required libraries:
 
-   .py -m pip install pandas notebook
+```bash
+py -m pip install pandas notebook
+```
 
 Open the notebook and run the cells in order:
 
-   .py -m notebook nail.ipynb
+```bash
+py -m notebook nail.ipynb
+```
 
-What I Learned:
+## What I Learned
 
 .Loading a CSV file with Pandas (including a custom ; separator)
 
